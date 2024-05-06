@@ -1,0 +1,14 @@
+[
+    {
+        "name": "isHappy",
+        "arguments": {
+            "isHappy": false
+        }
+    },
+    {
+        "name": "watchMovie",
+        "arguments": {
+            "genre": "comedy"
+        }
+    }
+]

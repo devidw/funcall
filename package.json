@@ -1,0 +1,23 @@
+{
+    "name": "functhem",
+    "version": "12024.05.06",
+    "type": "module",
+    "main": "./dist/index.js",
+    "exports": {
+        ".": "./dist/index.js"
+    },
+    "dependencies": {
+        "cheerio": "1.0.0-rc.12",
+        "dedent": "^1.5.3",
+        "zod": "^3.23.6",
+        "zod-to-json-schema": "^3.23.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.8",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5"
+    },
+    "files": [
+        "dist"
+    ]
+}
